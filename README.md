@@ -5,7 +5,7 @@ plot.ts(energy.data, type='b')
 
 ![quadratic pattern](https://cloud.githubusercontent.com/assets/20606137/26661149/9d61f766-4641-11e7-9216-d431649d6484.JPG)
 
-Quadratic pattern deteced, and growth at an increasing rate
+Example plot, Quadratic pattern detected, and growth at an increasing rate
 
 ### Construct and Build Time Series Model
 y<-ts((energy.data)) <br />
