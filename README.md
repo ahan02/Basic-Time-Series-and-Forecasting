@@ -1,4 +1,4 @@
-### Basic-Time-Series
+### Basic Time Series and Forecasting
 
 ### Check time series pattern
 plot.ts(energy.data, type='b')
