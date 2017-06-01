@@ -27,6 +27,6 @@ After calculate seasonal factor, compute and forecast using the formula: <br />
 #### Require Package 
 The R package TTR allows to perform technical analysis <br />
 You can install the stable version on R CRAN.  <br />
-install.packages('TTR')   
-
-To calculate simple Moving Average, use SMA(). The alternate way to perform is to use Forecast package <br />
+install.packages('TTR')   <br />
+To calculate simple Moving Average, use SMA(). <br />
+The alternate way to perform is to use Forecast package 
