@@ -29,4 +29,5 @@ The R package TTR allows to perform technical analysis <br />
 You can install the stable version on R CRAN.  <br />
 install.packages('TTR')   <br />
 To calculate simple Moving Average, use SMA(). <br />
+<br />
 The alternate way to perform is to use Forecast package 
