@@ -122,4 +122,4 @@ cl<-c(cl[-1],rep(NA,1))
 
 ##trend model => trt=intercept+coef*t##
 ####yt=trt+snt###
-###so in order to predict future, use exisiting data and insert the values in the prediction formula###
+###so in order to predict future values, use exisiting data and insert the values in the prediction formula###
