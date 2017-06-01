@@ -1,4 +1,4 @@
-setwd("C:/Users/Amy/Documents/GitHub/Basic-Time-Series")
+setwd("C:/Directory")
 energy.data=read.table('energy bills.txt', header=T)
 plot.ts(energy.data, type='b')
 
