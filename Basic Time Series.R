@@ -74,7 +74,7 @@ s*z
 
 #############New data set###########
 ##calculate moving average###
-oli.data<-read.table('oligopoly.txt', header=T)
+oli.data<-read.table('', header=T)
 oli.data<-ts(oli.data)
 window.length<-4
 library(TTR)
