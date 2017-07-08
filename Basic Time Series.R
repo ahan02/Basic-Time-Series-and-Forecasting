@@ -1,5 +1,5 @@
 setwd("C:/Directory")
-energy.data=read.table('energy bills.txt', header=T)
+energy.data=read.table('', header=T)
 plot.ts(energy.data, type='b')
 
 ##build time series model####
